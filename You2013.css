@@ -4,5 +4,5 @@
     font-family: 'You2013 Regular';
     font-style: normal;
     font-weight: normal;
-    src: local('You2013 Regular'), url('You2013 Regular.woff') format('woff');
+    src: url('You2013.woff') format('woff');
     }
